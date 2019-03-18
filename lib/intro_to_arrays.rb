@@ -5,3 +5,8 @@ def instantiate_new_array
 def array_with_two_elements
   my_two_array = ["eenie", "meenie"]
 end
+
+def first_element(array)
+  first_element[0]
+end
+  
