@@ -9,4 +9,3 @@ end
 def first_element(array)
   first_element[0]
 end
-  
